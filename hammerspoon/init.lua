@@ -1,2 +1,1 @@
 require('date')
-require('chromeTabSwitcher')
